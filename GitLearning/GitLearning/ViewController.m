@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSLog(@"i am grograming at netbar");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
